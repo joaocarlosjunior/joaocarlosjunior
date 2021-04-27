@@ -14,5 +14,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaocarlosjunior&show_icons=true&theme=dracula&line_height=27" alt= "Joao Carlos github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaocarlosjunior&show_icons=true&theme=dracula&line_height=27" 
+      alt= "**joaocarlosjunior** github stats"/>
 </a>
