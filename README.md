@@ -8,11 +8,11 @@ I am a 24 year old Brazilian computer science student. Currently I seek to impro
 joaocarlosjunior/joaocarlosjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+# ⭐ My account information GitHub
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarlosjunior&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaocarlosjunior&show_icons=true&theme=dracula&line_height=27" alt= "**Joao Carlos** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaocarlosjunior&show_icons=true&theme=dracula&line_height=27" alt= "Joao Carlos github stats"/>
 </a>
