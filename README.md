@@ -3,7 +3,7 @@
 I am a 24 year old Brazilian computer science student. Currently I seek to improve my knowledge to be implemented in future projects.
 
 #### Little more about me:
-- 👀 I’m interested in learn Web Development with JavaScript.
+- 👀 I am interested in learning and becoming a cyber security analyst.
 - 🌱 I am currently learning Java in the Programming Language course at college.
 
 <!---
