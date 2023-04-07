@@ -1,10 +1,10 @@
 # Hi, I'm João Carlos! 👨🏻‍💻
 ### About me
-I am a 24 year old Brazilian computer science student. Currently I seek to improve my knowledge to be implemented in future projects.
+I am a 26 year old Brazilian computer science student. Currently I seek to improve my knowledge to be implemented in future projects.
 
 #### Little more about me:
-- 👀 I am interested in learning and becoming a cyber security analyst.
-- 🌱 I am currently learning Java in the Programming Language course at college.
+- 👀 I am interested in learning and myself a web developer.
+- 🌱 I am currently learning JavaScript.
 
 <!---
 joaocarlosjunior/joaocarlosjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
