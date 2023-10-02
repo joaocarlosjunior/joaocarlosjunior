@@ -1,11 +1,10 @@
 # Hi, I'm João Carlos! 👨🏻‍💻
-### About me
-I am a 26 year old Brazilian computer science student. Currently I seek to improve my knowledge to be implemented in future projects.
+### Sobre
+Sou estudante de Ciência da Computação de 26 anos. Atualmente busco aprimorar meus conhecimentos para serem implementados em projetos futuros.
 
-#### Little more about me:
-- 👀 I am interested in learning and myself a web developer.
-- 🌱 I am currently learning JavaScript.
-
+#### Um pouco mais sobre mim:
+- 👀 Tenho interesse em desenvolvimento de aplicações web centralizado e descentralizados.
+- 🌱 Atualmente meu foco de estudo é JavaScript e toda tecnologia em volta de blockchain.
 <!---
 joaocarlosjunior/joaocarlosjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
