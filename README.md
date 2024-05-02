@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação de 26 anos. Atualmente busco aprimorar
 
 #### Um pouco mais sobre mim:
 - 👀 Tenho interesse em desenvolvimento de aplicações web centralizado e descentralizados.
-- 🌱 Atualmente meu foco de estudo é Java e Spring Boot.
+- 🌱 Atualmente meu foco de estudo é Java e Spring.
 <!---
 joaocarlosjunior/joaocarlosjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
