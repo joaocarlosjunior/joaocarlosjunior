@@ -11,14 +11,6 @@
 # ⭐ My account information GitHub
 <div style="display: flex;align-items: center; justify-content: space-evenly" >
 
-<div>
-
 [![Joao top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarlosjunior&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<div>
-
-![Joao Carlos's github stats](https://github-readme-stats.vercel.app/api?username=joaocarlosjunior&count_private=true&show_icons=true&title_color=fff&icon_color=9f9f9f&text_color=9f9f9f&bg_color=151515)
-</div>
 
  </div>
