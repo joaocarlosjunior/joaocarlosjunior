@@ -7,7 +7,7 @@
 Java | Spring Boot | Angular | Javascript | HTML | CSS 🚀
 - 🎓 Computer Science Student @[UESC](http://www.uesc.br/)
 - 🌐 Interested in centralized and decentralized web application development
-- 📫 Contate-me no email: joaocarlos.cic1@gmail.com
+- 📫 Contact me at email: joaocarlos.cic1@gmail.com
 
 # ⭐ My account information GitHub
 <div style="display: flex;align-items: center; justify-content: space-evenly" >
@@ -16,7 +16,7 @@ Java | Spring Boot | Angular | Javascript | HTML | CSS 🚀
 
  </div>
 
- # Projetos 
+ # Projects 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=RMI-quatro-em-linha)](https://github.com/joaocarlosjunior/RMI-quatro-em-linha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=spring-security-jwt)](https://github.com/joaocarlosjunior/spring-security-jwt)
