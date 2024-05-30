@@ -18,7 +18,7 @@ Java | Spring Boot | Angular | Javascript | HTML | CSS 🚀
 
  # Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=rmi-quatro-em-linha)](https://github.com/joaocarlosjunior/RMI-quatro-em-linha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=rmi-quatro-em-linha)](https://github.com/joaocarlosjunior/rmi-quatro-em-linha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=spring-security-jwt)](https://github.com/joaocarlosjunior/spring-security-jwt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=agenda-contatos)](https://github.com/joaocarlosjunior/agenda-contatos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=numerical-analysis)](https://github.com/joaocarlosjunior/Numerical-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=numerical-analysis)](https://github.com/joaocarlosjunior/numerical-analysis)
