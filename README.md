@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaocarlos.cic1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaocarlos.cic1@gmail.com)](mailto:joaocarlos.cic1@gmail.com)
 
 ## My name is João Carlos
-Java | Spring Boot | Angular | Javascript | HTML | CSS 🚀
-- 🎓 Computer Science Student @[UESC](http://www.uesc.br/)
+Java | Spring Boot | Angular 14+ | Javascript | HTML | CSS 🚀
+- 🎓 Computer Science Undergraduate @[UESC](http://www.uesc.br/)
 - 🌐 Interested in centralized and decentralized web application development
 - 📫 Contact me at email: joaocarlos.cic1@gmail.com
 
@@ -21,4 +21,4 @@ Java | Spring Boot | Angular | Javascript | HTML | CSS 🚀
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=rmi-quatro-em-linha)](https://github.com/joaocarlosjunior/rmi-quatro-em-linha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=spring-security-jwt)](https://github.com/joaocarlosjunior/spring-security-jwt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=agenda-contatos)](https://github.com/joaocarlosjunior/agenda-contatos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=numerical-analysis)](https://github.com/joaocarlosjunior/numerical-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=user-registration-api)](https://github.com/joaocarlosjunior/user-registration-api)
