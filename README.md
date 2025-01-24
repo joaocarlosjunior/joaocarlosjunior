@@ -5,7 +5,7 @@
 
 ## My name is João Carlos
 Java | Spring Boot | Angular 14+ | Javascript | HTML | CSS 🚀
-- 🎓 Computer Science Undergraduate @[UESC](http://www.uesc.br/)
+- 🎓 Bachelor of Computer Science @[UESC](http://www.uesc.br/)
 - 🌐 Interested in centralized and decentralized web application development
 - 📫 Contact me at email: joaocarlos.cic1@gmail.com
 
