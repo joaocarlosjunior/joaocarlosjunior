@@ -1,13 +1,13 @@
-<h1>Hi There! 👋</h1>
+<h1>Olá! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocarlosjr/)](https://www.linkedin.com/in/joaocarlosjr/)
 [![Gmail Badge](https://img.shields.io/badge/-joaocarlos.cic1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaocarlos.cic1@gmail.com)](mailto:joaocarlos.cic1@gmail.com)
 
-## My name is João Carlos
+## Meu nome é João Carlos
 Java | Spring Boot | Angular 14+ | Javascript | HTML | CSS 🚀
-- 🎓 Bachelor of Computer Science @[UESC](http://www.uesc.br/)
-- 🌐 Interested in centralized and decentralized web application development
-- 📫 Contact me at email: joaocarlos.cic1@gmail.com
+- 🎓 Sou graduado em Ciência da Computação pela @[UESC](http://www.uesc.br/)
+- 🌐 Tenho interesse em desenvolvimento de aplicações web centralizado e descentralizado
+- 📫 Email: joaocarlos.cic1@gmail.com
 
 # ⭐ My account information GitHub
 <div style="display: flex;align-items: center; justify-content: space-evenly" >
