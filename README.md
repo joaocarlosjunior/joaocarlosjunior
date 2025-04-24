@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaocarlos.cic1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaocarlos.cic1@gmail.com)](mailto:joaocarlos.cic1@gmail.com)
 
 ## Meu nome é João Carlos
-Java | Spring Boot | Angular 14+ | Docker | SQL 🚀
+Java | Spring | Angular 14+ | Docker | SQL 🚀
 - 🎓 Sou graduado em Ciência da Computação pela @[UESC](http://www.uesc.br/)
 - 🌱 Estudando Angular e Spring
 - 🌐 Tenho interesse em desenvolvimento de aplicações centralizadas e descentralizadas
