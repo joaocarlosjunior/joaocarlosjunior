@@ -24,3 +24,4 @@ Java | Spring | Angular 14+ | Docker | SQL 🚀
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=rmi-quatro-em-linha)](https://github.com/joaocarlosjunior/rmi-quatro-em-linha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=spring-security-jwt)](https://github.com/joaocarlosjunior/spring-security-jwt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=agenda-contatos)](https://github.com/joaocarlosjunior/agenda-contatos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=pagamento-aluguel-web3)](https://github.com/joaocarlosjunior/pagamento-aluguel-web3)
