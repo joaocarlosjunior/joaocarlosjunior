@@ -13,9 +13,9 @@ Java | Spring | Angular 14+ | Docker | SQL 🚀
 # ⭐ Informações da minha conta GitHub
 <div style="display: flex;align-items: center; justify-content: space-evenly" >
 
-[![Joao top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarlosjunior&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaocarlosjunior&show_icons=true&theme=radical"/> </a>
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaocarlosjunior&theme=react&line_height=40&hide=css"/> </a>
 
  </div>
 
@@ -24,4 +24,3 @@ Java | Spring | Angular 14+ | Docker | SQL 🚀
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=rmi-quatro-em-linha)](https://github.com/joaocarlosjunior/rmi-quatro-em-linha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=spring-security-jwt)](https://github.com/joaocarlosjunior/spring-security-jwt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=agenda-contatos)](https://github.com/joaocarlosjunior/agenda-contatos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=user-registration-api)](https://github.com/joaocarlosjunior/user-registration-api)
