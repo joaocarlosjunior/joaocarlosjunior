@@ -1,14 +1,16 @@
 <h1>Olá! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocarlosjr/)](https://www.linkedin.com/in/joaocarlosjr/)
-[![Gmail Badge](https://img.shields.io/badge/-joaocarlos.cic1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaocarlos.cic1@gmail.com)](mailto:joaocarlos.cic1@gmail.com)
-
 ## Meu nome é João Carlos
+
 Java | Spring | Angular 14+ | Docker | SQL 🚀
 - 🎓 Sou graduado em Ciência da Computação pela @[UESC](http://www.uesc.br/)
 - 🌱 Estudando Angular, Spring e Solidity
 - 🌐 Tenho interesse em desenvolvimento de aplicações centralizadas e descentralizadas
 - 📫 Email: joaocarlos.cic1@gmail.com
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocarlosjr/)](https://www.linkedin.com/in/joaocarlosjr/)
+[![Gmail Badge](https://img.shields.io/badge/-joaocarlos.cic1@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaocarlos.cic1@gmail.com)](mailto:joaocarlos.cic1@gmail.com)
+
 
 # ⭐ Informações da minha conta GitHub
 <div style="display: flex;align-items: center; justify-content: space-evenly" >
