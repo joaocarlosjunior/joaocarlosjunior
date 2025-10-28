@@ -24,6 +24,6 @@ Java | Spring | Angular 14+ | Docker | SQL 🚀
  # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=fitness-consultant-api&theme=radical)](https://github.com/joaocarlosjunior/fitness-consultant-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=email-service&theme=radical)](https://github.com/joaocarlosjunior/email-service)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=rmi-quatro-em-linha&theme=radical)](https://github.com/joaocarlosjunior/rmi-quatro-em-linha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=pagamento-aluguel-web3&theme=radical)](https://github.com/joaocarlosjunior/pagamento-aluguel-web3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=agenda-contatos&theme=radical)](https://github.com/joaocarlosjunior/agenda-contatos)
