@@ -4,7 +4,7 @@
 
 Java | Spring | Angular 14+ | Docker | SQL 🚀
 - 🎓 Sou graduado em Ciência da Computação pela @[UESC](http://www.uesc.br/)
-- 🌱 Estudando Angular, Spring e Solidity
+- 🌱 Estudando sobre microservicos, monitoramente e observabilidade.
 - 🌐 Tenho interesse em desenvolvimento de aplicações centralizadas e descentralizadas
 - 📫 Email: joaocarlos.cic1@gmail.com
 
