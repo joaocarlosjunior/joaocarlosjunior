@@ -20,10 +20,3 @@ Java | Spring | Angular 14+ | Docker | SQL 🚀
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaocarlosjunior&theme=radical&line_height=40&hide=css"/> </a>
 
  </div>
-
- # Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=fitness-consultant-api&theme=radical)](https://github.com/joaocarlosjunior/fitness-consultant-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=orchestration-saga-pattern&theme=radical)](https://github.com/joaocarlosjunior/orchestration-saga-pattern)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=email-service&theme=radical)](https://github.com/joaocarlosjunior/email-service)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaocarlosjunior&repo=rmi-quatro-em-linha&theme=radical)](https://github.com/joaocarlosjunior/rmi-quatro-em-linha)
