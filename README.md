@@ -15,8 +15,9 @@ Java | Spring | Angular 14+ | Docker | SQL 🚀
 # ⭐ Informações da minha conta GitHub
 <div style="display: flex;align-items: center; justify-content: space-evenly" >
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaocarlosjunior&show_icons=true&theme=radical"/> </a>
+<a href=""> <img align="center" src="https://github-stats-extended.vercel.app/api?username=joaocarlosjunior&show_icons=true&include_all_commits=true&theme=ocean_dark"/> </a>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaocarlosjunior&theme=radical&line_height=40&hide=css"/> </a>
+
+<a href=""> <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=joaocarlosjunior&langs_count=4&theme=ocean_dark"/> </a>
 
  </div>
