@@ -2,9 +2,9 @@
 
 ## Meu nome é João Carlos
 
-Java | Spring | Angular 14+ | Docker | SQL 🚀
+Java | Spring | Angular 12+ | Docker | SQL | Microservices🚀
 - 🎓 Sou graduado em Ciência da Computação pela @[UESC](http://www.uesc.br/)
-- 🌱 Estudando sobre microservicos, e ferramentas de monitoramento e observabilidade.
+- 🌱 Estudando sobre microsserviços, ferramentas de monitoramento e observabilidade.
 - 🌐 Tenho interesse em desenvolvimento de aplicações centralizadas e descentralizadas
 - 📫 Email: joaocarlos.cic1@gmail.com
 
